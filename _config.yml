@@ -113,3 +113,12 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+# 下の方に追加
+sass:
+  style: compressed
+
+defaults:
+  - scope:
+      path: "assets/css"
+    values:
+      css: "custom"
