@@ -1,0 +1,17 @@
+body {
+  background-image: url('https://www.transparenttextures.com/patterns/stardust.png');
+  background-color: #fffaf5;
+  font-family: 'Zen Maru Gothic', 'Yu Gothic', sans-serif;
+}
+
+h1, h2, h3 {
+  color: #ff8a65;
+}
+
+a {
+  color: #f48fb1;
+}
+
+.sidebar {
+  background-color: #fff0e6;
+}
